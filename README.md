@@ -207,8 +207,8 @@ wazuh-siem-lab/
 Cybersecurity Student | Graduating July 2026  
 Background: SOC Analyst → Security Engineer → Penetration Tester  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/mohamed-ghazi-323163262)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](github.com/mohamedghazi-creator)
 
 ---
 
