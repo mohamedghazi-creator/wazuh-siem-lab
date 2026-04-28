@@ -193,8 +193,6 @@ wazuh-siem-lab/
 │   ├── dashboard-overview.png
 │   ├── security-alerts.png
 │   ├── agent-overview.png
-│   ├── mitre-tactics.png
-│   └── alert-spike.png
 ├── configs/
 │   └── wazuh-config.yml
 └── notes/
