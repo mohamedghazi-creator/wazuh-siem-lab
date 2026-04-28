@@ -1,0 +1,15 @@
+# Wazuh Configuration
+# All-in-one deployment on Ubuntu 20.04 LTS
+
+nodes:
+  indexer:
+    - name: node-1
+      ip: 127.0.0.1
+
+  server:
+    - name: wazuh-1
+      ip: 127.0.0.1
+
+  dashboard:
+    - name: dashboard
+      ip: 127.0.0.1
